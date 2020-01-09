@@ -1,11 +1,13 @@
-# UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
+# README
 
-This repository is used by students to fork their own repository to work for the team submission.
+This is our Pacman Agent in the contest of COMP90054 in University of Melbourne, Sem2, 2019.  
 
-You must FORK **privately** this repository and change slightly the name to **comp90054-pacman-\<your student number\>**
+Our agent got the 2nd place in the final round. Team name RLNB2.  
 
-Read [this documentation about the code of the contest](contest.md)
-
-Please follow the instructions in LMS. An [initial copy of the PDF](instructions.pdf) can be found in this repo.
-
-Hope you enjoy this project!
+The techs we used including:
+  - Heuristic search. For food search and avoid ghosts.
+  - Rule-based decision tree. 
+  - HMM for ememy location detection.
+  - Maze-distance-based clustering.
+  - Dead-end detection technique.
+  - Some minimax strategies.  
