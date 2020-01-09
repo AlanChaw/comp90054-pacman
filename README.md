@@ -1,4 +1,4 @@
-# README
+# Unimelb comp90054 Sem2, 2019. Team RLNB2
 
 This is our Pacman Agent in the contest of COMP90054 in University of Melbourne, Sem2, 2019.  
 
