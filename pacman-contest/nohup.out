@@ -1,0 +1,30 @@
+
+Red team myTeam with {}:
+myTeam.py
+Loading Team: myTeam.py
+Arguments: {}
+
+Blue team myTeam with {}:
+myTeam.py
+Loading Team: myTeam.py
+Arguments: {}
+1
+Red team starts
+The Red team has returned at least 28 of the opponents' dots.
+
+Total Time Game: 47.0
+
+Red team myTeam with {}:
+myTeam.py
+Loading Team: myTeam.py
+Arguments: {}
+
+Blue team myTeam with {}:
+myTeam.py
+Loading Team: myTeam.py
+Arguments: {}
+1
+Blue team starts
+The Blue team has returned at least 28 of the opponents' dots.
+
+Total Time Game: 45.0

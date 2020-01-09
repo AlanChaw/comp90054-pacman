@@ -1,0 +1,6 @@
+| Name               | ID      | Email                                |
+|--------------------|---------|--------------------------------------|
+| Weizhuo Zhang      | 1018329 | weizhuo.zhang@student.unimelb.edu.au |
+| Wenbin Cao         | 1008253 | wccao@student.unimelb.edu.au         |
+| Geoffrey Ka-Hoi Law| 759218  | glaw@student.unimelb.edu.au          |
+| Yun chen           | 760419  | yunc4@student.unimelb.edu.au         |

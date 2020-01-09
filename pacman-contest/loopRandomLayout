@@ -1,0 +1,12 @@
+import os
+import random
+
+gameRange = range(1, 3)
+teamA = "myTeam"
+teamB = "baselineTeam"
+
+for round in gameRange:
+  i = random.randint(0,20000)
+  os.system("echo ======================RAMDON{2}====================;python capture.py -r {0} -b {1} -q -l RANDOM{2}".format(teamA, \
+      teamB, i))
+
