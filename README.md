@@ -10,4 +10,6 @@ The techs we used including:
   - HMM for ememy location detection.
   - Maze-distance-based clustering.
   - Dead-end detection technique.
-  - Some minimax strategies.  
+  - Some minimax strategies.    
+
+[Introduction video on youtube](https://youtu.be/rsiiatCdPNU)  
